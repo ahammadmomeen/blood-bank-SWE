@@ -1,0 +1,11 @@
+As a Blood Bank Administrator, I want to login with username and password so that I can manage the blood bank.
+
+ACCEPTANCE CRITERIA
+
+Administrator can enter a valid username and password.
+
+Valid credentials authenticate the administrator successfully.
+
+Dashboard appears after successful authentication.
+
+Invalid credentials display an appropriate error message.
