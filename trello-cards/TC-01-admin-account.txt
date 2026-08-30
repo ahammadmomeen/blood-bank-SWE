@@ -1,0 +1,20 @@
+Card ID: TC-01
+
+Title:
+Create Administrator Account
+
+User Story:
+As a Blood Bank Administrator,
+I want to create an administrator account,
+so that I can access the system securely.
+
+Acceptance Criteria:
+- Administrator can enter required information.
+- Account information is saved successfully.
+- Account creation is confirmed.
+
+Assigned To:
+Momeen
+
+Status:
+To Do
