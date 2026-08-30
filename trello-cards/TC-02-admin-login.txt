@@ -1,0 +1,20 @@
+Card ID: TC-02
+
+Title:
+Login with Username and Password
+
+User Story:
+As a Blood Bank Administrator,
+I want to login with my username and password,
+so that I can securely access the system.
+
+Acceptance Criteria:
+- Username and password are required.
+- Invalid credentials show an error.
+- Successful login opens the dashboard.
+
+Assigned To:
+Momeen
+
+Status:
+To Do
