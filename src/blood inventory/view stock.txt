@@ -1,0 +1,17 @@
+TC-12: View Blood Stock
+
+Purpose:
+Allow the administrator to view current blood stock.
+
+Blood groups:
+A+
+A-
+B+
+B-
+AB+
+AB-
+O+
+O-
+
+Expected result:
+The available quantity for each blood group is displayed.

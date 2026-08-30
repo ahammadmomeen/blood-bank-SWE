@@ -1,0 +1,9 @@
+As an Administrator, I want to remove expired blood units so that unsafe blood is unavailable.
+
+ACCEPTANCE CRITERIA
+
+Expired units are identified.
+
+Units are removed after confirmation.
+Expected result:
+Expired blood is no longer available in the inventory.

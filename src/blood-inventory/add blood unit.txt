@@ -1,0 +1,15 @@
+As a Blood Bank Administrator, I want to add a blood unit so that the blood inventory stays updated.
+
+ACCEPTANCE CRITERIA
+
+Blood type is entered and saved successfully.
+
+2. Quantity is entered and saved successfully.
+
+3. Expiry date is entered and saved successfully.
+
+4. The new blood unit appears in the inventory after successful submission.
+
+5. Invalid or missing information is rejected.
+Expected result:
+The blood unit is added successfully to the blood inventory.

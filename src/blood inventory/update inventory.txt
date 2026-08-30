@@ -1,0 +1,9 @@
+As an Administrator, I want to update blood inventory so that stock stays accurate.
+
+ACCEPTANCE CRITERIA
+
+- Inventory updates successfully.
+
+- Updated stock is displayed immediately.
+Expected result:
+The inventory is updated successfully.
